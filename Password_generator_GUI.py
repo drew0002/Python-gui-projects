@@ -7,7 +7,7 @@ from module2task3 import spechar
 
 app=CTk()
 app.geometry("1900x1080")
-app.title("Pass word generator")
+app.title("Password generator")
 screenwidth=app.winfo_screenwidth()
 screenheight=app.winfo_screenheight()
 set_appearance_mode("dark")
