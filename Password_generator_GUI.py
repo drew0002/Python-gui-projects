@@ -1,8 +1,8 @@
 import random
 from customtkinter import *
-from module1task3 import nums
-from module3task3 import char
-from module2task3 import spechar
+from module1PasswordGenerator import nums
+from module2PasswordGenerator import spechar
+from module3PasswordGenerator import char
 
 
 app=CTk()
